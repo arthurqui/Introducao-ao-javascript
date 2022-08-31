@@ -8,5 +8,6 @@
 <h3> ⏰ Duração: 2h</h3>
 <h3> 🏅 Insignia: <img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></h3>
 <h3> 🧾 Certificado: </h3>
-<img src="https://i.imgur.com/UgDDwj1.png" height="400">
+<a href="https://www.dio.me/certificate/80DC8CB0/share"><img src="https://i.imgur.com/UgDDwj1.png" height="400"></a>
+
 </p>
