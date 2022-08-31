@@ -5,7 +5,7 @@
 <h2> Curso de Introducao ao Javascript disponibilizado pela Digital Inovation One.</h2>
 <h3> Todos os códigos feitos estarão commitados dentro deste repositório.</h3>
 <br>
-<h3> ⏰ Duração:</h3>
+<h3> ⏰ Duração: 2h</h3>
 <h3> 🧾 Certificado:</h3>
 <h3> 🏅 Insignia:</h3>
 </p>
