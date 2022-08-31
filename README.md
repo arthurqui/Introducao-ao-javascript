@@ -7,5 +7,5 @@
 <br>
 <h3> ⏰ Duração: 2h</h3>
 <h3> 🧾 Certificado:</h3>
-<h3> 🏅 Insignia:</h3>
+<h3> 🏅 Insignia: <img src="https://i.imgur.com/UgDDwj1.png"></h3>
 </p>
